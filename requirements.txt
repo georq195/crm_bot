@@ -1,0 +1,7 @@
+aiogram>=3.13,<4
+apscheduler>=3.10,<4
+sqlalchemy[asyncio]>=2
+aiosqlite
+pydantic-settings
+openpyxl
+tzdata
